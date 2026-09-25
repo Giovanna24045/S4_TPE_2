@@ -109,7 +109,6 @@ El escaneo de puertos es una técnica utilizada en seguridad informática para i
 
 Este proyecto fue desarrollado con fines académicos como parte de una práctica de Seguridad Informática.
 
-## Autores
 
 **Integrantes del grupo:**
 
