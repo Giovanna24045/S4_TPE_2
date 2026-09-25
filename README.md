@@ -113,13 +113,13 @@ Este proyecto fue desarrollado con fines académicos como parte de una práctica
 
 **Integrantes del grupo:**
 
-* Giovanna Yamel Salazar Bravo
-* Daniel Alejandro Guiracocha Caizaguano
-* Jessica Maribel Chillagana Chacho
-* José Enrique Pin Parrales
-* Evelyn Rosana Asipuela Bravo
-* Angie Carolina Solis Guerrero
-* Washington Vinicio Tipanguano Tashiguano
+* Giovanna Yamel Salazar Bravo.
+* Daniel Alejandro Guiracocha Caizaguano.
+* Jessica Maribel Chillagana Chacho.
+* José Enrique Pin Parrales.
+* Evelyn Rosana Asipuela Bravo.
+* Angie Carolina Solis Guerrero.
+* Washington Vinicio Tipanguano Tashiguano.
 
 ## Asignatura
 
